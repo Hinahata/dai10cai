@@ -1,0 +1,9 @@
+insert into dbo.data (id, name, mail, age) values 
+('0001', 'Madagascar', 'mdg@yukiyama', 45),
+('0002', 'Bahamas', 'bhs@sonna', 81),
+('0003', 'Ukraine', 'ukr@tochikorogashi', 90),
+('0004', 'Australia', 'aus@hatsumei', 37);
+
+go
+
+select * from dbo.data;
