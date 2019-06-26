@@ -1,3 +1,4 @@
+"use strict";
 var express = require('express');
 var router = express.Router();
 
@@ -10,7 +11,7 @@ const config = {
     type: 'default',
     options: {
       userName: 'hinas913',
-      password: 'Q8s7wmvj'
+      password: '        '
     }
   },
   server: 'hinashun.database.windows.net',
